@@ -1,0 +1,102 @@
+[
+    {
+        "firstName" :"Sbahle",
+        "lastNmae"  : "Mzobe",
+        "favHobby"  : "Sleeping",
+        "criminal"  :"false",
+        "favColor"  : "Purple",
+        "dreamCars" : [
+            {
+                "carName" : "Bentely Bentyaga" ,
+                "engineCapacity":"4.0 liter V8 petrol engine",
+                "model" : 2024
+            },
+            {
+                "carName" : "Mercedes-Benz GLC" ,
+                "engineCapacity":"4.0 liter V8 petrol engine",
+                "model" : 2024
+            }
+
+        ]
+    },
+    {
+        "firstName" :"Azola",
+        "lastNmae"  : "Ndoda",
+        "favHobby"  : "Reading",
+        "criminal"  :"false",
+        "dreamCars" : [
+            {
+                "carName" : "Lamborgini Truck" ,
+                "engineCapacity":"4.0 liter V8 petrol engine",
+                "model" : 2021
+            },
+            {
+                "carName" : "Jeep" ,
+                "engineCapacity":"4.0 liter V8 petrol engine",
+                "model" : 2024
+            }
+
+        ]
+    },
+    {
+        "firstName" :"Sphokazi",
+        "lastNmae"  : "Mzobe",
+        "favHobby"  : "Watching Youtube Videos",
+        "criminal"  :"true",
+        "dreamCars" : [
+            {
+                "carName" : "Omoda" ,
+                "engineCapacity":"4.0 liter V8 petrol engine",
+                "model" : 2024
+            },
+            {
+                "carName" : "BMW" ,
+                "engineCapacity":"4.0 liter V8 petrol engine",
+                "model" : "M4" ,
+                "color"  : "black"
+            }
+
+        ]
+    },
+    {
+        "firstName" :"Moesha",
+        "lastNmae"  : "Hlongwane",
+        "favHobby"  : "Watching Youtube Videos",
+        "criminal"  :"true",
+        "dreamCars" : [
+            {
+                "carName" : "Ford Defender V8" ,
+                "engineCapacity":"4.0 liter V8 petrol engine",
+                "model" : 2021
+            },
+            {
+                "carName" : "BMW" ,
+                "engineCapacity":"4.0 liter V8 petrol engine",
+                "model" : "M4" ,
+                "color"  : "black"
+            }
+
+        ]
+    },
+    {
+        "firstName" :"Alutho",
+        "lastNmae"  : "Dumani",
+        "favHobby"  : "Singing",
+        "criminal"  :"true",
+        "color"     : "Yellow" ,
+        "dreamCars" : [
+            {
+                "carName" : "BMW" ,
+                "engineCapacity":"4.0 liter V8 petrol engine",
+                "model" : "X6"
+            },
+            {
+                "carName" : "Mercedes-Benz AMG" ,
+                "engineCapacity":"4.0 liter V8 petrol engine",
+                "model" : "AMG" ,
+                "color"  : "black"
+            }
+
+        ]
+    }
+]
